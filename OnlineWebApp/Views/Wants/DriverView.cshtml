@@ -1,0 +1,36 @@
+﻿@model IEnumerable<OnlineWebApp.Models.AppModels.Want>
+
+@{
+    ViewBag.Title = "DriverView";
+}
+
+<h2>DriverView</h2>
+<hr />
+<div class="row">
+
+
+
+    @foreach (var item in Model)
+    {
+        ViewBag.Color = "card text-white bg-danger mb-3";
+        if (item.Order.statues.ToUpper() == "Is Packed".ToUpper())
+        {
+
+            ViewBag.Color = "card text-white bg-success mb-3";
+
+        }
+
+        <div class="col-md-2">
+            <div class="@ViewBag.Color" style="max-width: 18rem;">
+                <div class="card-header"> Order Number: @Html.DisplayFor(modelItem => item.Order.Order_Id) </div>
+                <div class="card-body">
+                    <h5 class="card-title">Client Name: @Html.DisplayFor(modelItem => item.Order.Client.Display_Name)</h5>
+                    <p>Delivery Address: @Html.DisplayFor(modelItem => item.Order.Option)</p>
+                    <p>Order date: @Html.DisplayFor(modelItem => item.Order.OrderDate)</p>
+                    <a href='@Url.Action("Details", "Wants", new { id = item.WantId }, null)' class="btn btn-primary">View Order Details</a>
+                </div>
+            </div>
+        </div>
+        <br />
+    }
+</div>

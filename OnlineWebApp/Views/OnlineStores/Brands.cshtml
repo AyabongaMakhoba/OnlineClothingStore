@@ -1,0 +1,19 @@
+﻿@model IEnumerable<OnlineWebApp.Models.AppModels.Brand>
+
+@{
+    ViewBag.Title = "Brands";
+}
+<div class="filter-widget">
+    <h4 class="fw-title">@ViewBag.Title</h4>
+    <div class="fw-brand-check">
+        <ul class="filter-catagories">
+            @foreach (var item in Model)
+            {
+                <li>
+                    @Html.ActionLink(item.Tag_Name, "BrowseBrands", "OnlineStores", new { id = item.Brand_Id }, null)
+                </li>
+            }
+        </ul>
+
+    </div>
+</div>

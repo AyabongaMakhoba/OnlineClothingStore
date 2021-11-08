@@ -1,0 +1,28 @@
+﻿@model IEnumerable<OnlineWebApp.Models.AppModels.Want>
+
+@{
+    ViewBag.Title = "StaffView";
+}
+
+<h2>StaffView</h2>
+
+
+<hr />
+<div class="row">
+
+    @foreach (var item in Model)
+    {
+
+        <div class="col-md-3">
+            <div class="shadow p-3 mb-5 bg-white rounded">
+
+                <p>Order Number: @Html.DisplayFor(modelItem => item.Order.Order_Id)</p>
+                <p>Client Name: @Html.DisplayFor(modelItem => item.Order.Client.Display_Name)</p>
+                <p>Delivery Address: @Html.DisplayFor(modelItem => item.Order.Option)</p>
+                <p>Order date: @Html.DisplayFor(modelItem => item.Order.OrderDate)</p>
+                <a href='@Url.Action("OrderState", "Wants", new { id = item.WantId }, null)' class="btn btn-success">View Order Details</a>
+
+            </div>
+        </div>
+    }
+</div>

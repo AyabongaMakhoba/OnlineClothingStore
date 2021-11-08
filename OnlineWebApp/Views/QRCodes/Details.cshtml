@@ -1,0 +1,42 @@
+﻿@model OnlineWebApp.Models.AppModels.QRCode
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>QRCode</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Orders.Username)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Orders.Username)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.QRCodeText)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.QRCodeText)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.QRCodeImagePath)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.QRCodeImagePath)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.QRId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

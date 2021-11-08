@@ -1,0 +1,64 @@
+﻿@model OnlineWebApp.Models.AppModels.Please
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Please</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.DriverInfos.FirstName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DriverInfos.FirstName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.OrderDetails.OrderDetail_Id)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.OrderDetails.OrderDetail_Id)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Solo.StaffName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Solo.StaffName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.HasDriver)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.HasDriver)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.HasStaff)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.HasStaff)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

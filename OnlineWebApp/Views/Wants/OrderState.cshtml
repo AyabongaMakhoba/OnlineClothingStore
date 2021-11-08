@@ -1,0 +1,58 @@
+﻿@model OnlineWebApp.Models.AppModels.Want
+
+@{
+    ViewBag.Title = "OrderState";
+}
+
+<h2>OrderState</h2>
+
+<div>
+    <h4>Want</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.DriverInfos.FirstName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DriverInfos.FirstName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Order.Username)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Order.Username)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Solo.StaffName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Solo.StaffName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.HasDriver)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.HasDriver)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.HasStaff)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.HasStaff)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.WantId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

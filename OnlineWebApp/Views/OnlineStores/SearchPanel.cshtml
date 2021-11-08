@@ -1,0 +1,15 @@
+﻿@model IEnumerable<OnlineWebApp.Models.Items>
+@{
+    ViewBag.Title = "SearchPanel";
+}<div class="col-lg-7 col-lg-7">
+   <div class="advanced-search">
+     <button type="button" class="category-btn">All Categories</button>
+     <form action="#" class="input-group" abineguid="FC998A685BF74AC68CE4E465BED70945">
+      @using (Html.BeginForm())
+       {
+       @Html.TextBox("SearchString")
+          <button type="submit"><i class="ti-search"></i></button>
+       }
+     </form>
+    </div>
+</div>

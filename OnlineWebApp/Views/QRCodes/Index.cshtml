@@ -1,0 +1,45 @@
+﻿@model IEnumerable<OnlineWebApp.Models.AppModels.QRCode>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Orders.Username)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.QRCodeText)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.QRCodeImagePath)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Orders.Username)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.QRCodeText)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.QRCodeImagePath)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.QRId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.QRId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.QRId })
+        </td>
+    </tr>
+}
+
+</table>

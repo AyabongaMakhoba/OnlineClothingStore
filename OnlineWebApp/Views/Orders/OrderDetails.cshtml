@@ -1,0 +1,294 @@
+﻿@model OnlineWebApp.Models.Order
+
+@{
+    ViewBag.Title = "OrderDetails";
+}
+
+<h2>Order Tracking</h2>
+
+
+
+<style type="text/css">
+    .stepwizard-step p {
+        margin-top: 10px;
+    }
+
+    .stepwizard-row {
+        display: table-row;
+    }
+
+    .stepwizard {
+        display: table;
+        width: 100%;
+        position: relative;
+    }
+
+    .stepwizard-step button[disabled] {
+        opacity: 1 !important;
+        filter: alpha(opacity=100) !important;
+    }
+
+    .stepwizard-row:before {
+        top: 14px;
+        bottom: 0;
+        position: absolute;
+        content: " ";
+        width: 100%;
+        height: 1px;
+        background-color: #ccc;
+        z-order: 0;
+    }
+
+    .stepwizard-step {
+        display: table-cell;
+        text-align: center;
+        position: relative;
+    }
+
+    .btn-circle {
+        width: 30px;
+        height: 30px;
+        text-align: center;
+        padding: 6px 0;
+        font-size: 12px;
+        line-height: 1.428571429;
+        border-radius: 15px;
+    }
+</style>
+@*<h2 class="title text-center">@ViewBag.Title</h2>*@
+
+@*<div class="row">
+    <div>
+        <table class="table">
+            <tr>
+                <th>Order ID</th>
+                <th>
+                    @{
+                        var order = (OnlineWebApp.Models.Order)ViewBag.Order;
+                    }
+                    @order.Order_Id
+                </th>
+            </tr>
+            <tr>
+                <th>Date</th>
+                <td><i class="fa fa-calendar"></i>Model.OrderDate.ToLongDateString()  <i class="fa fa-clock-o"></i> @order.OrderDate.ToLongTimeString()</td>
+            </tr>
+            <tr>
+            
+                <td></td>
+            </tr>
+        </table>
+    </div>
+</div>*@
+<div class="row">
+    <div class="stepwizard">
+        <div class="stepwizard-row">
+
+            <div class="stepwizard-step">
+                @if (Model.statues.ToLower().Contains("Payed".ToLower()))
+                {
+                    
+                    <button type="button" class="btn btn-success btn-circle">1</button>
+                }
+                else
+                {
+                    <button type="button" class="btn btn-default btn-circle">1</button>
+                }
+                <p>Order Is Payed For</p>
+            </div>
+            <div class="stepwizard-step">
+                @if (Model.statues.ToLower().Contains("Packaging".ToLower()))
+                {
+                    <button type="button" class="btn btn-success btn-circle">2</button>
+                }
+                else
+                {
+                    <button type="button" class="btn btn-danger btn-circle">2</button>
+                }
+                <p> At the Warehouse </p>
+            </div>
+            <div class="stepwizard-step">
+                @if (Model.statues.ToLower().Contains("Is packed".ToLower()))
+                {
+                    <button type="button" class="btn btn-success btn-circle">3</button>
+                }
+                else
+                {
+                    <button type="button" class="btn btn-danger btn-circle">3</button>
+                }
+                <p>It is packaged</p>
+            </div>
+            <div class="stepwizard-step">
+                @if (Model.statues.ToLower().Contains("Delivery".ToLower()))
+                {
+                    <button type="button" class="btn btn-success btn-circle">4</button>
+                }
+                else
+                {
+                    <button type="button" class="btn btn-danger btn-circle">4</button>
+                }
+                <p>En route for delivery</p>
+            </div>
+            <div class="stepwizard-step">
+                @if (Model.statues.ToLower().Equals("Delivered".ToLower()))
+                {
+                    <button type="button" class="btn btn-success btn-circle">5</button>
+                }
+                else
+                {
+                    <button type="button" class="btn btn-danger btn-circle">5</button>
+                }
+                <p>Delivered</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+<div>
+    <h4>Order Details</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Client.Display_Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Client.Display_Name)
+        </dd>
+
+        @*<dt>
+            @Html.DisplayNameFor(model => model.DriverInfo.FirstName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DriverInfo.FirstName)
+        </dd>*@
+
+        <dt>
+            @Html.DisplayNameFor(model => model.FirstName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FirstName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.LastName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LastName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Phone)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Phone)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.OrderDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.OrderDate)
+        </dd>
+
+        @*<dt>
+            @Html.DisplayNameFor(model => model.CollectionDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CollectionDate)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Collected)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Collected)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Packed)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Packed)
+        </dd>*@
+
+        <dt>
+            @Html.DisplayNameFor(model => model.statues)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.statues)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ReferenceNumber)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ReferenceNumber)
+        </dd>
+
+        @*<dt>
+            @Html.DisplayNameFor(model => model.Driver)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Driver)
+        </dd>*@
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Email)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Option)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Option)
+        </dd>
+
+        @*<dt>
+            @Html.DisplayNameFor(model => model.HasDriver)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.HasDriver)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.HasStaff)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.HasStaff)
+        </dd>*@
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Order_Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

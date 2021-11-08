@@ -1,0 +1,50 @@
+﻿@model OnlineWebApp.Models.AppModels.Solo
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Solo</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.StaffName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.StaffName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.StaffLastName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.StaffLastName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.StaffAddress)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.StaffAddress)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.StaffPhone)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.StaffPhone)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.SoloID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

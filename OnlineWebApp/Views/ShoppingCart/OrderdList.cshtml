@@ -1,0 +1,13 @@
+﻿@model OnlineWebApp.Models.ViewModels.ShoppingCartViewModel
+@{
+    ViewBag.Title = "OrderdList";
+}
+<ul class="order-table">
+    <li>Product <span>Total</span></li>
+    @foreach (var item in Model.CartItems)
+    {
+    <li class="fw-normal">@Html.DisplayFor(modelItem => item.Items.Item_Name) x @Html.DisplayFor(modelItem => item.Count)<span> @Html.DisplayFor(modelItem => item.Items.ItemCost)</span></li>
+    }
+    <li class="fw-normal">Subtotal <span>@Model.CartTotal</span></li>
+    <li class="total-price">Total <span>@Model.CartTotal</span></li>
+</ul>

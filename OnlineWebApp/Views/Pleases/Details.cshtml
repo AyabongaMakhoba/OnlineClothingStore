@@ -1,0 +1,58 @@
+﻿@model OnlineWebApp.Models.AppModels.Please
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Please</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.DriverInfos.FirstName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DriverInfos.FirstName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Order.Order_Id)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Order.Order_Id)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Solo.StaffName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Solo.StaffName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.HasDriver)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.HasDriver)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.HasStaff)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.HasStaff)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.PleaID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

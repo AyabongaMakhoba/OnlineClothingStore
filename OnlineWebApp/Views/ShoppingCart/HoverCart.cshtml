@@ -1,0 +1,44 @@
+﻿@model OnlineWebApp.Models.ViewModels.ShoppingCartViewModel
+
+@{
+    ViewBag.Title = "HoverCart";
+}
+
+<div class="cart-hover">
+    <div class="select-items">
+        <table>
+            <tbody>
+                @foreach (var item in Model.CartItems)
+                {
+                    <tr>
+                        <td class="si-pic">
+                            @if (item.Items.Front_View != null)
+                            {
+                                var base64 = Convert.ToBase64String(item.Items.Front_View);
+                                var ImgSource = string.Format("data:image/gif;base64,{0}", base64);
+                                <img src="@ImgSource" alt="" width="80" height="80" />
+                            }
+                        </td>
+                        <td class="si-text">
+                            <div class="product-selected">
+                                <p>@Html.DisplayFor(modelItem => item.Items.ItemCost) x @Html.DisplayFor(modelItem => item.Count)</p>
+                                <h6>@Html.DisplayFor(modelItem => item.Items.Item_Name)</h6>
+                            </div>
+                        </td>
+                        <td class="si-close">
+                            <i class="ti-close"></i>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+    <div class="select-total">
+        <span>total:</span>
+        <h5>@Model.CartTotal</h5>
+    </div>
+    <div class="select-button">
+        <a href="@Url.Action("Index", "ShoppingCart")" class="primary-btn view-card">VIEW CART</a>
+        <a href="@Url.Action("AddressAndPayment", "Checkout")" class="primary-btn checkout-btn">CHECK OUT</a>
+    </div>
+</div>

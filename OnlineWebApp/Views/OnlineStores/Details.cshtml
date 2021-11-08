@@ -1,0 +1,150 @@
+﻿@model OnlineWebApp.Models.Items
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+    //ViewBag.ItemName = "Item - " + Model.Item_Name;
+    ViewBag.Title = "Details";
+}
+
+<script src="https://kit.fontawesome.com/4167227e2f.js" crossorigin="anonymous"></script>
+<link href="~/Content/StyleSheet2.css" rel="stylesheet" />
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.1/css/all.css" integrity="sha384-vp86vTRFVJgpjF9jiIGPEEqYqlDwgyBgEF109VFjmqGmIY/Y4HV4d3Gp2irVfcrp" crossorigin="anonymous" />
+
+
+
+
+<div class="breacrumb-section">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="breadcrumb-text">
+                    <a href="#"><i class="fa fa-home"></i> Home</a>
+                    <span>@ViewBag.Title</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<section class="product-shop spad">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-3 col-md-6 col-sm-8 order-2 order-lg-1 produts-sidebar-filter">
+                @{
+                    Html.RenderAction("GenreMenu", "OnlineStores");
+                    Html.RenderAction("Brands", "OnlineStores");
+                    Html.RenderAction("Tags", "OnlineStores");
+                }
+            </div>
+
+            <div class="col-lg-9 order-1 order-lg-2">
+                <div class="product-list">
+                    <div class="row">
+                        <div class="col-lg-4 col-sm-6">
+                            <div class="product-item">
+                                <div class="pi-pic">
+                                    @if (Model.Front_View != null)
+                                    {
+                                        var base64 = Convert.ToBase64String(Model.Front_View);
+                                        var ImgSource = string.Format("data:image/gif;base64,{0}", base64);
+                                        <img src="@ImgSource" alt="" width="270" height="300" />
+                                    }
+                                    @if (Model.Sales.Sale_Name == "On Sale")
+                                    {
+                                        <div class="sale pp-sale">Sale</div>
+                                    }
+
+                                    @if (Request.IsAuthenticated)
+                                    {
+                                        <div class="icon">
+                                            <a href="@Url.Action("AddToList", "OnlineStores", new { id = Model.Item_Id, crumbPage = ViewBag.Title})"><i class="icon_heart_alt"></i></a>
+                                        </div>
+                                    }
+                                    <ul>
+                                        <li class="w-icon active"><a href="@Url.Action("AddToCart", "ShoppingCart", new { id = Model.Item_Id})"><i class="icon_bag_alt"></i></a></li>
+                                        <li class="quick-view"><a href="@Url.Action("Details","OnlineStores", new { id = Model.Item_Id})">+ Quick View</a></li>
+                                        <li class="w-icon"><a href="#"><i class="fa fa-random"></i></a></li>
+                                    </ul>
+                                </div>
+                                <div class="pi-text">
+                                    <div class="catagory-name">@Model.Categories.Category_Type</div>
+                                    <a href="#">
+                                        <h5>@Model.Item_Name</h5>
+                                    </a>
+                                    <div class="product-price">
+                                        @if (Model.Sales.Sale_Name == "On Sale")
+                                        {
+                                            var discount = (from d in Model.Discounts
+                                                            where d.Item_Id == Model.Item_Id
+                                                            select d.Discount_Price).SingleOrDefault();
+                                            ViewBag.Discount = "R" + discount;
+
+                                            @ViewBag.Discount
+                                            <span>@Html.DisplayFor(modelItem => Model.ItemCost)</span>
+                                        }
+                                        else
+                                        {
+                                            @Html.DisplayFor(modelItem => Model.ItemCost)
+                                        }
+
+
+                                    </div>
+                                </div>
+                            </div>
+
+
+                        </div>
+
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label> Write Your Comment</label>
+                    <span class="text-warning float-right">
+                        <i class="ratingStar far fa-star" td-value="1">
+                        </i>
+                        <i class="ratingStar far fa-star" td-value="2">
+                        </i>
+                        <i class="ratingStar far fa-star" td-value="3">
+                        </i>
+                        <i class="ratingStar far fa-star" td-value="4">
+                        </i>
+                        <i class="ratingStar far fa-star" td-value="5">
+                        </i>
+                    </span>
+                    <input type="hidden" name="Rating" id="ratingsValue" />
+                    <textarea class="form-control" id="comment" rows="3" name="Text" placeholder="Write your comment here..."></textarea>
+                </div>
+                <div>
+                    <a href="@Url.Action("thanks", "Home")" class="btn btn-warning">Comment</a>
+                </div>
+            </div>
+
+
+        </div>
+        </div>
+
+</section>
+
+
+
+
+
+
+
+@section Scripts {
+
+    <script>
+
+        $(".ratingStar").hover(function () {
+            $(".ratingStar").addClass("fas").removeClass("fas");
+            $(this).addClass("fas").removeClass("far");
+            $(this).prevAll(".ratingStar").addClass("fas").removeClass("far");
+        });
+        $(".ratingStar").click(function () {
+            var starValue = $(this).attr("data value")
+            $("#ratingsValue").val(starValue)
+        })
+    </script>
+    @Scripts.Render("~/bundles/jqueryval")
+
+}

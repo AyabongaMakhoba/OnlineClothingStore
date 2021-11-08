@@ -1,0 +1,18 @@
+﻿@model IEnumerable<OnlineWebApp.Models.Order>
+
+@{
+    ViewBag.Title = "SearchRef";
+}
+
+@using (Html.BeginForm())
+{
+    <p>
+        Find by name: @Html.TextBox("SearchString")
+        <input type="submit" value="Search" />
+    </p>
+}
+
+@*<form class="example" action="action_page.php">
+        <input type="text" placeholder="Search.." name="search">
+        <button type="submit"><i class="fa fa-search">  </i></button>W
+    </form>*@

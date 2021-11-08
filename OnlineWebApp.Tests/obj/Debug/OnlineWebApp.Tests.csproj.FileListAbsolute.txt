@@ -1,0 +1,562 @@
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\OnlineWebApp.Tests.dll.config
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\OnlineWebApp.Tests.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\OnlineWebApp.Tests.pdb
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\OnlineWebApp.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Owin.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\OnlineWebApp.pdb
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\OnlineWebApp.dll.config
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp.Tests\obj\Debug\OnlineWebApp.Tests.csprojAssemblyReference.cache
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp.Tests\obj\Debug\OnlineWebApp.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp.Tests\obj\Debug\OnlineWebApp.Tests.csproj.CopyComplete
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp.Tests\obj\Debug\OnlineWebApp.Tests.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp.Tests\obj\Debug\OnlineWebApp.Tests.pdb
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\OnlineWebApp.Tests.dll.config
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\OnlineWebApp.Tests.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\OnlineWebApp.Tests.pdb
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\OnlineWebApp.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Owin.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\OnlineWebApp.pdb
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\OnlineWebApp.dll.config
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp.Tests\obj\Debug\OnlineWebApp.Tests.csprojAssemblyReference.cache
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp.Tests\obj\Debug\OnlineWebApp.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp.Tests\obj\Debug\OnlineWebApp.Tests.csproj.CopyComplete
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp.Tests\obj\Debug\OnlineWebApp.Tests.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp.Tests\obj\Debug\OnlineWebApp.Tests.pdb
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\PagedList.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\PagedList.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\OnlineWebApp.Tests.dll.config
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\OnlineWebApp.Tests.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\OnlineWebApp.Tests.pdb
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\OnlineWebApp.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Owin.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\EntityFramework.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\PagedList.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\OnlineWebApp.pdb
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\OnlineWebApp.dll.config
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\EntityFramework.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\PagedList.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\obj\Debug\OnlineWebApp.Tests.csprojAssemblyReference.cache
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\obj\Debug\OnlineWebApp.Tests.csproj.CoreCompileInputs.cache
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\obj\Debug\OnlineWebApp.Tests.csproj.CopyComplete
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\obj\Debug\OnlineWebApp.Tests.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\obj\Debug\OnlineWebApp.Tests.pdb
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\PayFast.AspNet.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\PayFast.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\SendGrid.CSharp.HTTP.Client.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\SendGrid.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\StarkbankEcdsa.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\PayFast.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\SendGrid.pdb
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\SendGrid.xml
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\OnlineWebApp.Tests.dll.config
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\OnlineWebApp.Tests.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\OnlineWebApp.Tests.pdb
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\OnlineWebApp.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\PayFast.AspNet.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\PayFast.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\SendGrid.CSharp.HTTP.Client.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\SendGrid.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\StarkbankEcdsa.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.Helpers.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.Mvc.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.Razor.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.WebPages.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.Owin.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.Optimization.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.Owin.Security.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Owin.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\EntityFramework.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\PagedList.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\OnlineWebApp.pdb
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\OnlineWebApp.dll.config
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\PayFast.xml
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\SendGrid.pdb
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\SendGrid.xml
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.Helpers.xml
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.Mvc.xml
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.Razor.xml
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.WebPages.xml
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.Owin.xml
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.Optimization.xml
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.Owin.Security.xml
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\EntityFramework.xml
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\PagedList.xml
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\obj\Debug\OnlineWebApp.Tests.csprojAssemblyReference.cache
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\obj\Debug\OnlineWebApp.Tests.csproj.CopyComplete
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\obj\Debug\OnlineWebApp.Tests.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\obj\Debug\OnlineWebApp.Tests.pdb
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\OnlineWebApp.Tests.dll.config
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\OnlineWebApp.Tests.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\OnlineWebApp.Tests.pdb
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\OnlineWebApp.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\PayFast.AspNet.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\PayFast.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\SendGrid.CSharp.HTTP.Client.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\SendGrid.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\StarkbankEcdsa.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Owin.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\EntityFramework.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\PagedList.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\OnlineWebApp.pdb
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\OnlineWebApp.dll.config
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\PayFast.xml
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\SendGrid.pdb
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\SendGrid.xml
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\EntityFramework.xml
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\PagedList.xml
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\obj\Debug\OnlineWebApp.Tests.csprojAssemblyReference.cache
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\obj\Debug\OnlineWebApp.Tests.csproj.CoreCompileInputs.cache
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\obj\Debug\OnlineWebApp.Tests.csproj.CopyComplete
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\obj\Debug\OnlineWebApp.Tests.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\obj\Debug\OnlineWebApp.Tests.pdb
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\OnlineWebApp.Tests.dll.config
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\OnlineWebApp.Tests.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\OnlineWebApp.Tests.pdb
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\OnlineWebApp.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\PayFast.AspNet.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\PayFast.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\SendGrid.CSharp.HTTP.Client.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\SendGrid.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\StarkbankEcdsa.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Owin.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\EntityFramework.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\PagedList.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\OnlineWebApp.pdb
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\OnlineWebApp.dll.config
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\PayFast.xml
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\SendGrid.pdb
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\SendGrid.xml
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\EntityFramework.xml
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\PagedList.xml
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\obj\Debug\OnlineWebApp.Tests.csprojAssemblyReference.cache
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\obj\Debug\OnlineWebApp.Tests.csproj.CoreCompileInputs.cache
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\obj\Debug\OnlineWebApp.Tests.csproj.CopyComplete
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\obj\Debug\OnlineWebApp.Tests.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\obj\Debug\OnlineWebApp.Tests.pdb
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\OnlineWebApp.Tests.dll.config
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\OnlineWebApp.Tests.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\OnlineWebApp.Tests.pdb
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\OnlineWebApp.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\PayFast.AspNet.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\PayFast.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\SendGrid.CSharp.HTTP.Client.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\SendGrid.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\StarkbankEcdsa.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Owin.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\PagedList.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\OnlineWebApp.pdb
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\OnlineWebApp.dll.config
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\PayFast.xml
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\SendGrid.pdb
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\SendGrid.xml
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\PagedList.xml
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\obj\Debug\OnlineWebApp.Tests.csprojAssemblyReference.cache
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\obj\Debug\OnlineWebApp.Tests.csproj.CopyComplete
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\obj\Debug\OnlineWebApp.Tests.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\obj\Debug\OnlineWebApp.Tests.pdb
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Google.Apis.Core.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Google.Apis.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Google.Apis.pdb
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Google.Apis.xml
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Google.Apis.Core.xml
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\OnlineWebApp.Tests.dll.config
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\OnlineWebApp.Tests.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\OnlineWebApp.Tests.pdb
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Google.Apis.Core.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Google.Apis.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Google.Apis.PlatformServices.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\OnlineWebApp.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\PayFast.AspNet.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\PayFast.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\SendGrid.CSharp.HTTP.Client.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\SendGrid.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\StarkbankEcdsa.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.Helpers.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.Mvc.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.Razor.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.WebPages.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.Owin.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.Optimization.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.Owin.Security.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Owin.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\EntityFramework.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\PagedList.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\OnlineWebApp.pdb
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\OnlineWebApp.dll.config
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Google.Apis.pdb
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Google.Apis.xml
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Google.Apis.Core.pdb
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Google.Apis.Core.xml
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\PayFast.xml
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\SendGrid.pdb
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\SendGrid.xml
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.Helpers.xml
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.Mvc.xml
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.Razor.xml
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.WebPages.xml
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.Owin.xml
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.Optimization.xml
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.Owin.Security.xml
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\EntityFramework.xml
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\PagedList.xml
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\obj\Debug\OnlineWebApp.Tests.csprojAssemblyReference.cache
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\obj\Debug\OnlineWebApp.Tests.csproj.CoreCompileInputs.cache
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\obj\Debug\OnlineWebApp.Tests.csproj.CopyComplete
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\obj\Debug\OnlineWebApp.Tests.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\obj\Debug\OnlineWebApp.Tests.pdb
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\OnlineWebApp.Tests.dll.config
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\OnlineWebApp.Tests.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\OnlineWebApp.Tests.pdb
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Google.Apis.Core.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Google.Apis.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\OnlineWebApp.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\PayFast.AspNet.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\PayFast.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Rotativa.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\SendGrid.CSharp.HTTP.Client.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\SendGrid.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\StarkbankEcdsa.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Owin.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\EntityFramework.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\PagedList.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\OnlineWebApp.pdb
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\OnlineWebApp.dll.config
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Google.Apis.pdb
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Google.Apis.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Google.Apis.Core.pdb
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Google.Apis.Core.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\PayFast.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\SendGrid.pdb
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\SendGrid.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\EntityFramework.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\PagedList.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\obj\Debug\OnlineWebApp.Tests.csprojAssemblyReference.cache
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\obj\Debug\OnlineWebApp.Tests.csproj.CoreCompileInputs.cache
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\obj\Debug\OnlineWebApp.Tests.csproj.CopyComplete
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\obj\Debug\OnlineWebApp.Tests.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\obj\Debug\OnlineWebApp.Tests.pdb
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\zxing.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp.Tests\bin\Debug\zxing.xml

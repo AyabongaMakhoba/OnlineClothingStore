@@ -1,0 +1,24 @@
+﻿@model IEnumerable<OnlineWebApp.Models.Categories>
+
+@{
+    ViewBag.Title = "All Departments";
+}
+
+<ul class="filter-catagories">
+
+</ul>
+<div class="nav-depart">
+    <div class="depart-btn">
+        <i class="ti-menu"></i>
+        <span>@ViewBag.Title</span>
+        <ul class="depart-hover">
+
+            @foreach (var Category in Model)
+            {
+             
+                <li><a href = "@Url.Action("Browse", "OnlineStores", new {  Category = Category.Category_Type })">@Category.Category_Type</a></li>
+               
+            }
+        </ul>
+    </div>
+</div>

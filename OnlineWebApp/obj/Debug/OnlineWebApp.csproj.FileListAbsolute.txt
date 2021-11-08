@@ -1,0 +1,1168 @@
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\obj\Debug\OnlineWebApp.csproj.CoreCompileInputs.cache
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\OnlineWebApp.dll.config
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\OnlineWebApp.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\OnlineWebApp.pdb
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\roslyn\csc.exe
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\roslyn\csc.exe.config
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\roslyn\csc.rsp
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\roslyn\csi.exe
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\roslyn\csi.exe.config
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\roslyn\csi.rsp
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\roslyn\System.AppContext.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Console.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\roslyn\vbc.exe
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\roslyn\vbc.exe.config
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\roslyn\vbc.rsp
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\Antlr3.Runtime.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\EntityFramework.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\Newtonsoft.Json.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\Owin.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\System.Web.Helpers.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\System.Web.Mvc.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\System.Web.Optimization.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\System.Web.Razor.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\System.Web.WebPages.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\WebGrease.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\System.Web.Helpers.xml
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\System.Web.Mvc.xml
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\System.Web.Optimization.xml
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\System.Web.Razor.xml
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\System.Web.WebPages.xml
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\Newtonsoft.Json.xml
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\Antlr3.Runtime.pdb
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\EntityFramework.xml
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.xml
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.xml
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\obj\Debug\OnlineWebApp.csproj.CopyComplete
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\obj\Debug\OnlineWebApp.dll
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\obj\Debug\OnlineWebApp.pdb
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\obj\Debug\OnlineWebApp.Migrations.InitialCreate.resources
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\obj\Debug\OnlineWebApp.csproj.GenerateResource.cache
+C:\Users\Precedence\source\repos\OnlineWebApp\OnlineWebApp\obj\Debug\OnlineWebApp.csprojAssemblyReference.cache
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\OnlineWebApp.dll.config
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\OnlineWebApp.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\OnlineWebApp.pdb
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\roslyn\csc.exe
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\roslyn\csc.exe.config
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\roslyn\csc.rsp
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\roslyn\csi.exe
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\roslyn\csi.exe.config
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\roslyn\csi.rsp
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\roslyn\System.AppContext.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Console.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\roslyn\vbc.exe
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\roslyn\vbc.exe.config
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\roslyn\vbc.rsp
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\Antlr3.Runtime.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\EntityFramework.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\Newtonsoft.Json.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\Owin.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\System.Web.Helpers.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\System.Web.Mvc.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\System.Web.Optimization.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\System.Web.Razor.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\System.Web.WebPages.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\WebGrease.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\System.Web.Helpers.xml
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\System.Web.Mvc.xml
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\System.Web.Optimization.xml
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\System.Web.Razor.xml
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\System.Web.WebPages.xml
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\Newtonsoft.Json.xml
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\Antlr3.Runtime.pdb
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\EntityFramework.xml
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.xml
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.xml
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\obj\Debug\OnlineWebApp.csproj.CoreCompileInputs.cache
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\obj\Debug\OnlineWebApp.csproj.CopyComplete
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\obj\Debug\OnlineWebApp.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\obj\Debug\OnlineWebApp.pdb
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\PagedList.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\PagedList.Mvc.dll
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\PagedList.xml
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\bin\PagedList.Mvc.xml
+C:\Users\Precedence\Desktop\OnlineWebApp\OnlineWebApp\obj\Debug\OnlineWebApp.csprojAssemblyReference.cache
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\OnlineWebApp.dll.config
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\OnlineWebApp.dll
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\OnlineWebApp.pdb
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\roslyn\csc.exe
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\roslyn\csc.exe.config
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\roslyn\csc.rsp
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\roslyn\csi.exe
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\roslyn\csi.exe.config
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\roslyn\csi.rsp
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\roslyn\System.AppContext.dll
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Console.dll
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\roslyn\vbc.exe
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\roslyn\vbc.exe.config
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\roslyn\vbc.rsp
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\Antlr3.Runtime.dll
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\EntityFramework.dll
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.dll
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.dll
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\Newtonsoft.Json.dll
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\Owin.dll
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\PagedList.dll
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\PagedList.Mvc.dll
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\System.Web.Helpers.dll
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\System.Web.Mvc.dll
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\System.Web.Optimization.dll
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\System.Web.Razor.dll
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\System.Web.WebPages.dll
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\WebGrease.dll
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\PagedList.xml
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\PagedList.Mvc.xml
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\System.Web.Helpers.xml
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\System.Web.Mvc.xml
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\System.Web.Optimization.xml
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\System.Web.Razor.xml
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\System.Web.WebPages.xml
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\Newtonsoft.Json.xml
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\Antlr3.Runtime.pdb
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\EntityFramework.xml
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.xml
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.xml
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\obj\Debug\OnlineWebApp.csprojAssemblyReference.cache
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\obj\Debug\OnlineWebApp.csproj.CoreCompileInputs.cache
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\obj\Debug\OnlineWebApp.csproj.CopyComplete
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\obj\Debug\OnlineWebApp.dll
+C:\Users\Precedence\Documents\OnlineWebApp\OnlineWebApp\obj\Debug\OnlineWebApp.pdb
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\OnlineWebApp.dll.config
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\OnlineWebApp.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\OnlineWebApp.pdb
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\csc.exe
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\csc.exe.config
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\csc.rsp
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\csi.exe
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\csi.exe.config
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\csi.rsp
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.AppContext.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Console.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\vbc.exe
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\vbc.exe.config
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\vbc.rsp
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Antlr3.Runtime.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\EntityFramework.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Newtonsoft.Json.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Owin.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\PagedList.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\PagedList.Mvc.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.Helpers.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.Mvc.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.Optimization.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.Razor.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.WebPages.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\WebGrease.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\PagedList.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\PagedList.Mvc.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.Helpers.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.Mvc.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.Optimization.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.Razor.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.WebPages.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Newtonsoft.Json.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Antlr3.Runtime.pdb
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\EntityFramework.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\obj\Debug\OnlineWebApp.csprojAssemblyReference.cache
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\obj\Debug\OnlineWebApp.csproj.CoreCompileInputs.cache
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\obj\Debug\OnlineWebApp.csproj.CopyComplete
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\obj\Debug\OnlineWebApp.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\obj\Debug\OnlineWebApp.pdb
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\PayFast.AspNet.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\PayFast.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\SendGrid.CSharp.HTTP.Client.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\SendGrid.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\StarkbankEcdsa.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\PayFast.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\SendGrid.pdb
+C:\Users\NDUMISO BUTHELEZI\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\SendGrid.xml
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\OnlineWebApp.dll.config
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\OnlineWebApp.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\OnlineWebApp.pdb
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\csc.exe
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\csc.exe.config
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\csc.rsp
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\csi.exe
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\csi.exe.config
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\csi.rsp
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.AppContext.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Collections.Immutable.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Console.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.IO.Compression.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.IO.FileSystem.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.IO.Pipes.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Security.AccessControl.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Security.Claims.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.ValueTuple.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Xml.XPath.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\vbc.exe
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\vbc.exe.config
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\vbc.rsp
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\VBCSCompiler.exe
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\VBCSCompiler.exe.config
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Antlr3.Runtime.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\EntityFramework.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\EntityFramework.SqlServer.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.Google.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Web.Infrastructure.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Newtonsoft.Json.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Owin.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\PagedList.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\PagedList.Mvc.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\PayFast.AspNet.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\PayFast.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\SendGrid.CSharp.HTTP.Client.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\SendGrid.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\StarkbankEcdsa.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.Helpers.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.Mvc.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.Optimization.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.Razor.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.WebPages.Deployment.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.WebPages.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.WebPages.Razor.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\WebGrease.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Newtonsoft.Json.xml
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\PagedList.xml
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\PagedList.Mvc.xml
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\PayFast.xml
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\SendGrid.pdb
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\SendGrid.xml
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.Helpers.xml
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.Mvc.xml
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.Optimization.xml
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.Razor.xml
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.WebPages.xml
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.WebPages.Deployment.xml
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.WebPages.Razor.xml
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Antlr3.Runtime.pdb
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\EntityFramework.xml
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\EntityFramework.SqlServer.xml
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.xml
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.xml
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.Google.xml
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\obj\Debug\OnlineWebApp.csprojAssemblyReference.cache
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\obj\Debug\OnlineWebApp.csproj.CopyComplete
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\obj\Debug\OnlineWebApp.dll
+D:\Downloads\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\obj\Debug\OnlineWebApp.pdb
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\OnlineWebApp.dll.config
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\OnlineWebApp.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\OnlineWebApp.pdb
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\csc.exe
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\csc.exe.config
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\csc.rsp
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\csi.exe
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\csi.exe.config
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\csi.rsp
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.AppContext.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Console.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\vbc.exe
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\vbc.exe.config
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\vbc.rsp
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Antlr3.Runtime.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\EntityFramework.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Newtonsoft.Json.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Owin.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\PagedList.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\PagedList.Mvc.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\PayFast.AspNet.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\PayFast.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\SendGrid.CSharp.HTTP.Client.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\SendGrid.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\StarkbankEcdsa.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.Helpers.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.Mvc.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.Optimization.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.Razor.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.WebPages.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\WebGrease.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Newtonsoft.Json.xml
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\PagedList.xml
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\PagedList.Mvc.xml
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\PayFast.xml
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\SendGrid.pdb
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\SendGrid.xml
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.Helpers.xml
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.Mvc.xml
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.Optimization.xml
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.Razor.xml
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.WebPages.xml
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Antlr3.Runtime.pdb
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\EntityFramework.xml
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.xml
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.xml
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\obj\Debug\OnlineWebApp.csproj.CoreCompileInputs.cache
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\obj\Debug\OnlineWebApp.csproj.CopyComplete
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\obj\Debug\OnlineWebApp.dll
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\obj\Debug\OnlineWebApp.pdb
+C:\Users\NDUMISO BUTHELEZI\Videos\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\obj\Debug\OnlineWebApp.csprojAssemblyReference.cache
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\OnlineWebApp.dll.config
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\OnlineWebApp.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\OnlineWebApp.pdb
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\csc.exe
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\csc.exe.config
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\csc.rsp
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\csi.exe
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\csi.exe.config
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\csi.rsp
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.AppContext.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Console.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\vbc.exe
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\vbc.exe.config
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\vbc.rsp
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Antlr3.Runtime.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\EntityFramework.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Newtonsoft.Json.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Owin.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\PagedList.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\PagedList.Mvc.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\PayFast.AspNet.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\PayFast.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\SendGrid.CSharp.HTTP.Client.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\SendGrid.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\StarkbankEcdsa.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.Helpers.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.Mvc.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.Optimization.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.Razor.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.WebPages.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\WebGrease.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Newtonsoft.Json.xml
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\PagedList.xml
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\PagedList.Mvc.xml
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\PayFast.xml
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\SendGrid.pdb
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\SendGrid.xml
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.Helpers.xml
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.Mvc.xml
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.Optimization.xml
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.Razor.xml
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.WebPages.xml
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Antlr3.Runtime.pdb
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\EntityFramework.xml
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.xml
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.xml
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\obj\Debug\OnlineWebApp.csprojAssemblyReference.cache
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\obj\Debug\OnlineWebApp.csproj.CoreCompileInputs.cache
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\obj\Debug\OnlineWebApp.csproj.CopyComplete
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\obj\Debug\OnlineWebApp.dll
+C:\Users\NDUMISO BUTHELEZI\Music\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\obj\Debug\OnlineWebApp.pdb
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\OnlineWebApp.dll.config
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\OnlineWebApp.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\OnlineWebApp.pdb
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\csc.exe
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\csc.exe.config
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\csc.rsp
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\csi.exe
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\csi.exe.config
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\csi.rsp
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.AppContext.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Console.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\vbc.exe
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\vbc.exe.config
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\vbc.rsp
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Antlr3.Runtime.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\EntityFramework.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Newtonsoft.Json.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Owin.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\PagedList.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\PagedList.Mvc.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\PayFast.AspNet.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\PayFast.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\SendGrid.CSharp.HTTP.Client.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\SendGrid.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\StarkbankEcdsa.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.Helpers.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.Mvc.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.Optimization.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.Razor.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.WebPages.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\WebGrease.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Newtonsoft.Json.xml
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\PagedList.xml
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\PagedList.Mvc.xml
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\PayFast.xml
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\SendGrid.pdb
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\SendGrid.xml
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.Helpers.xml
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.Mvc.xml
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.Optimization.xml
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.Razor.xml
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.WebPages.xml
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Antlr3.Runtime.pdb
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\EntityFramework.xml
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.xml
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.xml
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\obj\Debug\OnlineWebApp.csprojAssemblyReference.cache
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\obj\Debug\OnlineWebApp.csproj.CopyComplete
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\obj\Debug\OnlineWebApp.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\obj\Debug\OnlineWebApp.pdb
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Google.Apis.Core.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Google.Apis.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Google.Apis.PlatformServices.dll
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Google.Apis.pdb
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Google.Apis.xml
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Google.Apis.Core.pdb
+C:\Users\Vumem\Desktop\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Google.Apis.Core.xml
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\OnlineWebApp.dll.config
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\OnlineWebApp.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\OnlineWebApp.pdb
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\csc.exe
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\csc.exe.config
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\csc.rsp
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\csi.exe
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\csi.exe.config
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\csi.rsp
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.Managed.Core.targets
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.AppContext.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Collections.Immutable.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Console.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.IO.Compression.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.IO.FileSystem.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.IO.Pipes.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Security.AccessControl.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Security.Claims.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Security.Principal.Windows.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.ValueTuple.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Xml.XmlDocument.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Xml.XPath.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\vbc.exe
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\vbc.exe.config
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\vbc.rsp
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\VBCSCompiler.exe
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\VBCSCompiler.exe.config
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Antlr3.Runtime.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\EntityFramework.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\EntityFramework.SqlServer.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Google.Apis.Core.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Google.Apis.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Google.Apis.PlatformServices.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.AspNet.Identity.Core.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.Cookies.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.Facebook.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.Google.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.OAuth.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.Twitter.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Web.Infrastructure.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Newtonsoft.Json.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Owin.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\PagedList.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\PagedList.Mvc.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\PayFast.AspNet.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\PayFast.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\SendGrid.CSharp.HTTP.Client.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\SendGrid.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\StarkbankEcdsa.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.Helpers.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.Mvc.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.Optimization.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.Razor.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.WebPages.Deployment.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.WebPages.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.WebPages.Razor.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\WebGrease.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Google.Apis.pdb
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Google.Apis.xml
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Google.Apis.Core.pdb
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Google.Apis.Core.xml
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Newtonsoft.Json.xml
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\PagedList.xml
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\PagedList.Mvc.xml
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\PayFast.xml
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\SendGrid.pdb
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\SendGrid.xml
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.Helpers.xml
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.Mvc.xml
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.Optimization.xml
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.Razor.xml
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.WebPages.xml
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.WebPages.Deployment.xml
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.WebPages.Razor.xml
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Antlr3.Runtime.pdb
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\EntityFramework.xml
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\EntityFramework.SqlServer.xml
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.AspNet.Identity.Core.xml
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.xml
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.xml
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.Facebook.xml
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.Cookies.xml
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.Google.xml
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.Twitter.xml
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.OAuth.xml
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\obj\Debug\OnlineWebApp.csproj.CoreCompileInputs.cache
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\obj\Debug\OnlineWebApp.csproj.CopyComplete
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\obj\Debug\OnlineWebApp.dll
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\obj\Debug\OnlineWebApp.pdb
+D:\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\obj\Debug\OnlineWebApp.csprojAssemblyReference.cache
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\OnlineWebApp.dll.config
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\OnlineWebApp.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\OnlineWebApp.pdb
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\csc.exe
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\csc.exe.config
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\csc.rsp
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\csi.exe
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\csi.exe.config
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\csi.rsp
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.AppContext.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Console.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\vbc.exe
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\vbc.exe.config
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\vbc.rsp
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Antlr3.Runtime.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\EntityFramework.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Google.Apis.Core.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Google.Apis.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Google.Apis.PlatformServices.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Newtonsoft.Json.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Owin.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\PagedList.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\PagedList.Mvc.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\PayFast.AspNet.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\PayFast.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Rotativa.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\SendGrid.CSharp.HTTP.Client.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\SendGrid.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\StarkbankEcdsa.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.Helpers.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.Mvc.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.Optimization.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.Razor.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.WebPages.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\WebGrease.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\EntityFramework.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Google.Apis.pdb
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Google.Apis.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Google.Apis.Core.pdb
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Google.Apis.Core.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Newtonsoft.Json.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\PagedList.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\PagedList.Mvc.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\PayFast.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\SendGrid.pdb
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\SendGrid.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.Helpers.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.Mvc.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.Optimization.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.Razor.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.WebPages.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Antlr3.Runtime.pdb
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\obj\Debug\OnlineWebApp.csproj.CoreCompileInputs.cache
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\obj\Debug\OnlineWebApp.csproj.CopyComplete
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\obj\Debug\OnlineWebApp.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\obj\Debug\OnlineWebApp.pdb
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\obj\Debug\OnlineWebApp.csprojAssemblyReference.cache
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\zxing.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\zxing.presentation.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\zxing.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\entrepreneurial spirit\OnlineWebApp\OnlineWebApp\OnlineWebApp\OnlineWebApp\bin\zxing.presentation.xml

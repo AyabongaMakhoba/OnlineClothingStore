@@ -1,0 +1,61 @@
+﻿@model OnlineWebApp.Models.Delivery
+
+@{
+    ViewBag.Title = "Create";
+}
+
+
+<h2>Create</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+}
+
+<div class="form-horizontal">
+    <h4>Delivery</h4>
+    <hr />
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Telephone, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.Telephone, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.Telephone, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+            @Html.LabelFor(model => model.Address, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Address, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Address, "", new { @class = "text-danger" })
+            </div>
+        </div>
+   @*X <div class="input_field">
+        <div class="input-group">
+            <div class="form-group">
+
+
+            </div>
+            <textarea type="text" class="form-control" id="Physical_Address" ng-model="PropertyModel.Physical_Address" required ng-minlength="3" ng-maxlength="255" style="min-height:100px; resize:none" placeholder="Physical Address"></textarea>
+            <div id="locationField">
+                @Html.LabelFor(model => model.Address, "Address", htmlAttributes: new { @class = "control-label col-md-2" })
+                <input id="address" name="address" placeholder="Enter your address here" required class="form-control" onFocus="geolocate()" @*type="text" style="min-width:360px" />
+            </div>
+        </div>
+        <br />
+    </div>*@
+
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="Confirm Delivery" name="btn1" class="btn btn-default" />
+        </div>
+    </div>
+
+    
+
+    <div>
+        @Html.ActionLink("Back to List", "Index")
+    </div>

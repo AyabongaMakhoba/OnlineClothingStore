@@ -1,0 +1,16 @@
+﻿@model IEnumerable<OnlineWebApp.Models.AppModels.Tag>
+
+@{
+    ViewBag.Title = "Tags";
+}
+
+<div class="filter-widget">
+    <h4 class="fw-title">@ViewBag.Title</h4>
+    <div class="fw-tags">
+        @foreach (var item in Model)
+        {
+            <a href="@Url.Action("BrowseTag", "OnlineStores", new { id = item.Tag_Id})">@item.Tag_Name</a>
+        }
+    </div>
+</div>
+      

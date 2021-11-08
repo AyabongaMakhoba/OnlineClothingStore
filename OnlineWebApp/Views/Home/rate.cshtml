@@ -1,0 +1,43 @@
+﻿
+@{
+    ViewBag.Title = "rate";
+}
+
+@*<h2>rate</h2>*@
+<head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="~/Content/StyleSheet2.css" rel="stylesheet" />
+</head>
+<br />
+<p>
+    <strong>
+        Please rate our services down below and leave a comment if you have any.<br />
+        Thank You!!
+    </strong>
+</p>
+<div class="rating">
+    <span class="fa fa-star checked"></span>
+    <span class="fa fa-star checked"></span>
+    <span class="fa fa-star checked"></span>
+    <span class="fa fa-star"></span>
+    <span class="fa fa-star"></span>
+</div>
+<div class="form-group">
+    <label for="comment">Comment:</label>
+    <textarea class="form-control" rows="5" id="comment"></textarea>
+</div>
+
+<div class="popup" onclick="myFunction()">
+    Submit
+    <span class="popuptext" id="myPopup">Thank you for your time!</span>
+</div>
+
+<script>
+// When the user clicks on div, open the popup
+function myFunction() {
+  var popup = document.getElementById("myPopup");
+  popup.classList.toggle("show");
+}
+</script>
+
+@*<button type="button">Submit</button>*@

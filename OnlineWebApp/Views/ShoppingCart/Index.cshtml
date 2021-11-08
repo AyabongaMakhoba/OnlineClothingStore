@@ -1,0 +1,131 @@
+﻿@model OnlineWebApp.Models.ViewModels.ShoppingCartViewModel
+
+@{
+    ViewBag.Title = "Index";
+}
+<section class="shopping-cart spad">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="cart-table">
+                        <table>
+                            <thead>
+                                <tr>
+                                    <th>Image</th>
+                                    <th class="p-name">Product Name</th>
+                                    <th>Price</th>
+                                    <th>Quantity</th>
+                                    <th><i class="ti-close"></i></th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var item in Model.CartItems)
+                                {
+
+                                    <tr>
+
+                                        <td class="cart-pic first-row">
+                                            @if (item.Items.Front_View != null)
+                                            {
+                                                var base64 = Convert.ToBase64String(item.Items.Front_View);
+                                                var ImgSource = string.Format("data:image/gif;base64,{0}", base64);
+                                                <img src="@ImgSource" alt=""  width="150" height="150"/>
+                                            }
+                                        </td>
+
+                                        <td class="cart-title first-row">
+                                            <h5>@item.Items.Item_Name</h5>
+                                        </td>
+                                        <td class="p-price first-row"> @Html.DisplayFor(modelItem => item.Items.ItemCost)</td>
+                                        <td class="qua-col first-row">
+                                            <div class="quantity">
+                                                <h5>@item.Count</h5>
+                                            </div>
+                                        </td>
+
+                                        <td class="close-td first-row"><a href="@Url.Action("RemoveFromCart", "ShoppingCart", new { id = item.RecordId})"><i class="ti-close" data-id="@item.RecordId" ></i></a></td>
+                                    </tr>
+
+                                }
+                            </tbody>
+
+                        </table>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-4">
+                            <div class="cart-buttons">
+                                <a href="@Url.Action("Shop", "OnlineStores")" class="primary-btn continue-shop">Continue shopping</a>
+                                <a href="@Url.Action("Index", "ShoppingCart")" class="primary-btn up-cart">Update cart</a>
+                            </div>
+
+                        </div>
+                        <div class="col-lg-4 offset-lg-4">
+                            <div class="proceed-checkout">
+                                <ul>
+                                    <li class="subtotal">Subtotal <span>@Html.DisplayFor(modelItem => Model.CartTotal) </span></li>
+                                    <li class="cart-total">Total <span>@Html.DisplayFor(modelItem => Model.CartTotal)</span></li>
+
+                                </ul>
+                                <a href="@Url.Action("AddressAndPayment", "Checkout")" class="proceed-btn">PROCEED TO CHECK OUT</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
+
+
+            <script src="/Scripts/jquery-1.4.4.min.js" type="text/javascript"></script>
+            <script type="text/javascript">
+                $(function () {
+                    // Document.ready -> link up remove event handler
+                    $(".ti-close").click(function () {
+                        // Get the id from the link
+                        var recordToDelete = $(this).attr("data-id");
+
+                        if (recordToDelete != '') {
+
+                            // Perform the ajax post
+                            $.post("/ShoppingCart/RemoveFromCart",
+                                { "id": recordToDelete },
+                                function (data) {
+                                    // Successful requests get here
+                                    // Update the page elements
+                                    if (data.ItemCount == 0) {
+                                        $('#row-' + data.DeleteId).fadeOut('slow');
+                                    }
+                                    else {
+                                        $('#item-count-' + data.DeleteId).text(data.ItemCount);
+                                    }
+
+                                    $('#cart-total').text(data.CartTotal);
+                                    $('#update-message').text(data.Message);
+                                    $('#cart-status').text('Cart (' + data.CartCount + ')');
+                                });
+                        }
+                    });
+
+                });
+                function handleUpdate() {
+                    // Load and deserialize the returned JSON data
+                    var json = context.get_data();
+                    var data = Sys.Serialization.JavaScriptSerializer.deserialize(json);
+
+                    // Update the page elements
+                    if (data.ItemCount == 0) {
+                        $('#row-' + data.DeleteId).fadeOut('slow');
+                    }
+                    else {
+                        $('#item-count-' + data.DeleteId).text(data.ItemCount);
+                    }
+
+                    $('#cart-total').text(data.CartTotal);
+                    $('#update-message').text(data.Message);
+                    $('#cart-status').text('Cart (' + data.CartCount + ')');
+                }
+            </script>
+

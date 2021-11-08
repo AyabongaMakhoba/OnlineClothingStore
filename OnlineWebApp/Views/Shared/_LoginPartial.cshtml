@@ -1,0 +1,222 @@
+﻿@using Microsoft.AspNet.Identity
+@if ((User.IsInRole("Admin")) && (Request.IsAuthenticated))
+{
+    using (Html.BeginForm("LogOff", "Account", FormMethod.Post, new { id = "logoutForm", @class = "navbar-right" }))
+    {
+        @Html.AntiForgeryToken()
+        <div class="nav-item">
+            <div class="container">
+                @{Html.RenderAction("AllDepartments", "OnlineStores");}
+                <nav class="nav-menu mobile-menu">
+                    <ul>
+                        <li><a href="@Url.Action("Index", "Home")">Home</a></li>
+                        <li><a href="@Url.Action("Shop", "OnlineStores")">Shop</a></li>
+                        @*<li><a href="@Url.Action("Sale", "OnlineStores")">Sales</a></li>*@
+                        <li>
+                            <a href="#">Create</a>
+                            <ul class="dropdown">
+                                <li><a href="@Url.Action("Create", "Categories")">Create Category</a></li>
+                                <li><a href="@Url.Action("Create", "Brands")">Create Brands</a></li>
+                                <li><a href="@Url.Action("Create", "Colors")">Create Colors</a></li>
+                                <li><a href="@Url.Action("Create", "Items")">Create Items</a></li>
+                                <li><a href="@Url.Action("Create", "Sizes")">Create Sizes</a></li>
+                                <li><a href="@Url.Action("Create", "Tags")">Create Tags</a></li>
+                                <li><a href="@Url.Action("Create", "Shirts")">Create Shirts</a></li>
+
+                            </ul>
+
+                        </li>
+
+                        <li>
+                            <a href="#">Management</a>
+                            <ul class="dropdown">
+
+
+                                <li><a href="@Url.Action("Manage", "Items")">Manage Stock</a></li>
+                                <li><a href="@Url.Action("Index", "Items")">Manage Items</a></li>
+                                <li><a href="@Url.Action("Sales", "Items")">View Sales</a></li>
+                                <li><a href="@Url.Action("OrderDe", "Orders")">Assign Packages</a></li>
+                                <li><a href="@Url.Action("AddRole", "Roles")">Manage Roles</a></li>
+                                <li><a href="@Url.Action("Index", "Orders")">Pending Orders</a></li>
+                                <li><a href="@Url.Action("Orders", "Orders")">Collected Orders</a></li>
+                                <li><a href="@Url.Action("Create", "Packs")">Confirm Packing</a></li>
+                                <li><a href="@Url.Action("Queries", "Returns")">Return Query</a></li>
+                                <li><a href="@Url.Action("Create", "Suppliers")">Suppliers</a></li>
+                                <li><a href="@Url.Action("Create", "RecievedStocks")">Recieved Stock</a></li>
+                                <li><a href="@Url.Action("Create", "Collects")">Confirm Collection</a></li>
+                                <li><a href="javascript:document.getElementById('logoutForm').submit()">Log off</a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            @Html.ActionLink(User.Identity.GetUserName(), "Index", "Manage", routeValues: null, htmlAttributes: new { title = "Manage" })
+                        </li>
+                    </ul>
+                </nav>
+                <div id="mobile-menu-wrap"></div>
+            </div>
+        </div>
+    }
+}
+
+
+else if ((User.IsInRole("Drivers")) && (Request.IsAuthenticated))
+{
+    using (Html.BeginForm("LogOff", "Account", FormMethod.Post, new { id = "logoutForm", @class = "navbar-right" }))
+
+    {
+        @Html.AntiForgeryToken()
+        <div class="nav-item">
+            <div class="container">
+                @{Html.RenderAction("AllDepartments", "OnlineStores");}
+                <nav class="nav-menu mobile-menu">
+                    <ul>
+                        <li><a href="@Url.Action("Index", "Home")">Home</a></li>
+                        <li><a href="@Url.Action("Shop", "OnlineStores")">Shop</a></li>
+                        <li><a href="@Url.Action("Contact", "Home")">Contact</a></li>
+                        <li>
+                            <a href="#">Pages</a>
+                            <ul class="dropdown">
+
+                                <li><a href="@Url.Action("Index", "ShoppingCart")">Shopping Cart</a></li>
+                                <li><a href="@Url.Action("AddressAndPayment", "Checkout")">Checkout</a></li>
+                                <li><a href="@Url.Action("Create", "Requests")">Custom Print</a></li>
+                                <li><a href="@Url.Action("Sale", "OnlineStores")">Sales</a></li>
+                                <li><a href="@Url.Action("Deliver", "Collects")">Confirm Delivery</a></li>
+                                <li><a href="@Url.Action("DriverView", "Wants")">Driver View</a></li>
+                                <li><a href="@Url.Action("Create", "DriverInfoes")">Driver Details</a></li>
+                                <li><a href="./faq.html">Faq</a></li>
+                                <li><a href="javascript:document.getElementById('logoutForm').submit()">Log off</a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            @Html.ActionLink(User.Identity.GetUserName(), "Index", "Manage", routeValues: null, htmlAttributes: new { title = "Manage" })
+                        </li>
+                    </ul>
+
+                </nav>
+                <div id="mobile-menu-wrap"></div>
+            </div>
+        </div>
+    }
+}
+else if ((User.IsInRole("Staff")) && (Request.IsAuthenticated))
+{
+    using (Html.BeginForm("LogOff", "Account", FormMethod.Post, new { id = "logoutForm", @class = "navbar-right" }))
+
+    {
+        @Html.AntiForgeryToken()
+        <div class="nav-item">
+            <div class="container">
+                @{Html.RenderAction("AllDepartments", "OnlineStores");}
+                <nav class="nav-menu mobile-menu">
+                    <ul>
+                        <li><a href="@Url.Action("Index", "Home")">Home</a></li>
+                        <li><a href="@Url.Action("Shop", "OnlineStores")">Shop</a></li>
+                        <li><a href="@Url.Action("Contact", "Home")">Contact</a></li>
+                        <li>
+                            <a href="#">Pages</a>
+                            <ul class="dropdown">
+
+                                <li><a href="@Url.Action("Index", "ShoppingCart")">Shopping Cart</a></li>
+                                <li><a href="@Url.Action("AddressAndPayment", "Checkout")">Checkout</a></li>
+                                <li><a href="@Url.Action("Create", "Requests")">Custom Print</a></li>
+                                <li><a href="@Url.Action("Sale", "OnlineStores")">Sales</a></li>
+                                <li><a href="@Url.Action("Create", "Soli")">Staffs Details</a></li>
+                                <li><a href="@Url.Action("StaffView", "Wants")">Staffs View</a></li>
+                                <li><a href="./faq.html">Faq</a></li>
+                                <li><a href="javascript:document.getElementById('logoutForm').submit()">Log off</a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            @Html.ActionLink(User.Identity.GetUserName(), "Index", "Manage", routeValues: null, htmlAttributes: new { title = "Manage" })
+                        </li>
+                    </ul>
+
+                </nav>
+                <div id="mobile-menu-wrap"></div>
+            </div>
+        </div>
+    }
+}
+
+else if (Request.IsAuthenticated)
+{
+    using (Html.BeginForm("LogOff", "Account", FormMethod.Post, new { id = "logoutForm", @class = "navbar-right" }))
+    {
+        @Html.AntiForgeryToken()
+        <div class="nav-item">
+            <div class="container">
+                @{Html.RenderAction("AllDepartments", "OnlineStores");}
+                <nav class="nav-menu mobile-menu">
+                    <ul>
+                        <li><a href="@Url.Action("Index", "Home")">Home</a></li>
+                        <li><a href="@Url.Action("Shop", "OnlineStores")">Shop</a></li>
+                        <li><a href="@Url.Action("Sale", "OnlineStores")">Sales</a></li>
+
+                        <li>
+                            <a href="#">Pages</a>
+                            <ul class="dropdown">
+
+                                <li><a href="@Url.Action("Index", "ShoppingCart")">Shopping Cart</a></li>
+                                <li><a href="@Url.Action("AddressAndPayment", "Checkout")">Checkout</a></li>
+                                <li><a href="@Url.Action("Index", "Orders")">Pending Order</a></li>
+                                <li><a href="@Url.Action("Orders", "Orders")">Collected Orders</a></li>
+                                <li><a href="@Url.Action("rate", "Home")">Rate Us</a></li>
+                                <li><a href="@Url.Action("Checking", "Orders")">Track Your Order</a></li>
+                                <li><a href="@Url.Action("Create", "Returns")">Return Query</a></li>
+                                <li><a href="@Url.Action("Create", "Requests")">Custom Print</a></li>
+                                <li><a href="@Url.Action("Contact", "Home")">Contact</a></li>
+                                <li><a href="./faq.html">Faq</a></li>
+                                <li><a href="javascript:document.getElementById('logoutForm').submit()">Log off</a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            @Html.ActionLink(User.Identity.GetUserName(), "Index", "Manage", routeValues: null, htmlAttributes: new { title = "Manage" })
+                        </li>
+                    </ul>
+                </nav>
+                <div id="mobile-menu-wrap"></div>
+            </div>
+        </div>
+    }
+}
+
+else
+{
+    <div class="nav-item">
+        <div class="container">
+            @{Html.RenderAction("AllDepartments", "OnlineStores");}
+            <nav class="nav-menu mobile-menu">
+                <ul>
+                    <li><a href="@Url.Action("Index", "Home")">Home</a></li>
+                    <li><a href="@Url.Action("Shop", "OnlineStores")">Shop</a></li>
+                    <li><a href="@Url.Action("Contact", "Home")">Contact</a></li>
+                    <li>
+                        <a href="#">Pages</a>
+
+                        <ul class="dropdown">
+
+                            <li><a href="@Url.Action("Index", "ShoppingCart")">Shopping Cart</a></li>
+                            <li><a href="@Url.Action("AddressAndPayment", "Checkout")">Checkout</a></li>
+                            <li><a href="@Url.Action("Create", "Requests")">Custom Print</a></li>
+                            <li><a href="@Url.Action("Sale", "OnlineStores")">Sales</a></li>
+                            <li><a href="./faq.html">Faq</a></li>
+
+                        </ul>
+
+                    </li>
+
+                    <li>@Html.ActionLink("Register", "Register", "Account", routeValues: null, htmlAttributes: new { id = "registerLink" })</li>
+
+                    <li>@Html.ActionLink("Log in", "Login", "Account", routeValues: null, htmlAttributes: new { id = "loginLink" })</li>
+
+                </ul>
+
+
+            </nav>
+
+            <div id="mobile-menu-wrap"></div>
+
+        </div>
+    </div>
+}

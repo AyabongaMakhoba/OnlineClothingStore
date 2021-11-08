@@ -1,0 +1,41 @@
+﻿@model IEnumerable<OnlineWebApp.Models.Order>
+
+@{
+    ViewBag.Title = "Checking";
+}
+
+<h2>Track Your Order</h2>
+
+
+<div class="row">
+
+    @foreach (var item in Model)
+    {
+        OnlineWebApp.Models.ApplicationDbContext db = new OnlineWebApp.Models.ApplicationDbContext();
+        var detail = (from i in db.QRCodes
+                      where i.Order_Id == item.Order_Id
+                      select i.QRId).FirstOrDefault();
+
+        <div class="col-md-3">
+            <div class="shadow p-3 mb-5 bg-white rounded">
+
+                <p>Order Number: @Html.DisplayFor(modelItem => item.Order_Id)</p>
+                <p>Client Name: @Html.DisplayFor(modelItem => item.Client.Display_Name)</p>
+                <p>Delivery Address: @Html.DisplayFor(modelItem => item.Option)</p>
+                <p>Order date: @Html.DisplayFor(modelItem => item.OrderDate)</p>
+                @*<a href='@Url.Action("Index", " Home", new { id =item.OrderDetail_Id})' class="btn btn-success">Assign Order</a>*@
+
+                <div class="btn">
+                    <div>
+                        <a href="@Url.Action("QRDetails", "QRCodes", new { id=detail})">
+                          
+                            <input type="submit" value="Track Order" class="btn btn-success" />
+                        </a>
+                    </div>
+                </div>
+
+
+            </div>
+        </div>
+    }
+</div>

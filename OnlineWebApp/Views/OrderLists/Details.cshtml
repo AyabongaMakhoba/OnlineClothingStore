@@ -1,0 +1,42 @@
+﻿@model OnlineWebApp.Models.AppModels.OrderList
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>OrderList</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.DriverInfos.FirstName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DriverInfos.FirstName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.OrderDetails.OrderDetail_Id)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.OrderDetails.OrderDetail_Id)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Staff.StaffName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Staff.StaffName)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.OrderList_ID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

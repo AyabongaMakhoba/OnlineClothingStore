@@ -1,0 +1,26 @@
+﻿@model IEnumerable<OnlineWebApp.Models.AppModels.OrderList>
+
+@{
+	ViewBag.Title = "DriverView";
+}
+
+<h2>DriverView</h2>
+<hr />
+<div class="row">
+
+	@foreach (var item in Model)
+	{
+
+		<div class="col-md-3">
+			<div class="shadow p-3 mb-5 bg-white rounded">
+
+				<p>Order Number: @Html.DisplayFor(modelItem => item.OrderDetails.Order.Order_Id)</p>
+				<p>Client Name: @Html.DisplayFor(modelItem => item.OrderDetails.Order.Client.Display_Name)</p>
+				<p>Delivery Address: @Html.DisplayFor(modelItem => item.OrderDetails.Order.Option)</p>
+				<p>Order date: @Html.DisplayFor(modelItem => item.OrderDetails.Order.OrderDate)</p>
+				<a href='@Url.Action("Details", "OrderLists", new { id = item.OrderDetail_Id }, null)' class="btn btn-success">View Order Details</a>
+				
+			</div>
+		</div>
+	}
+	</div>

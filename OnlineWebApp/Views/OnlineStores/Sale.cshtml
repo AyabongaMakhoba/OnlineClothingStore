@@ -1,0 +1,94 @@
+﻿@model IEnumerable<OnlineWebApp.Models.AppModels.Discount>
+
+@{
+    ViewBag.Title = "Sale";
+}
+<div class="breacrumb-section">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="breadcrumb-text">
+                    <a href="#"><i class="fa fa-home"></i> Home</a>
+                    <span>@ViewBag.Title</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<section class="product-shop spad">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-3 col-md-6 col-sm-8 order-2 order-lg-1 produts-sidebar-filter">
+                @{
+                    Html.RenderAction("GenreMenu", "OnlineStores");
+                    Html.RenderAction("Brands", "OnlineStores");
+                    Html.RenderAction("Tags", "OnlineStores");
+                }
+            </div>
+
+            <div class="col-lg-9 order-1 order-lg-2">
+                <div class="product-list">
+                    <div class="row">
+                        @foreach (var item in Model)
+                        {
+                            <div class="col-lg-4 col-sm-6">
+                                <div class="product-item">
+                                    <div class="pi-pic">
+                                        @if (item.Items.Front_View != null)
+                                        {
+                                            var base64 = Convert.ToBase64String(item.Items.Front_View);
+                                            var ImgSource = string.Format("data:image/gif;base64,{0}", base64);
+                                            <img src="@ImgSource" alt="" width="270" height="300" />
+                                        }
+                                        @if (item.Items.Sales.Sale_Name == "On Sale")
+                                        {
+                                            <div class="sale pp-sale">Sale</div>
+                                        }
+
+                                        @if (Request.IsAuthenticated)
+                                        {
+                                            <div class="icon">
+                                                <a href="@Url.Action("AddToList", "OnlineStores", new { id = item.Item_Id, crumbPage = ViewBag.Title})"><i class="icon_heart_alt"></i></a>
+                                            </div>
+                                        }
+                                        <ul>
+                                            <li class="w-icon active"><a href="@Url.Action("AddToCart", "ShoppingCart", new { id = item.Items.Item_Id})"><i class="icon_bag_alt"></i></a></li>
+                                            <li class="quick-view"><a href="@Url.Action("Details","OnlineStores", new { id = item.Items.Item_Id})">+ Quick View</a></li>
+                                            <li class="w-icon"><a href="#"><i class="fa fa-random"></i></a></li>
+                                        </ul>
+                                    </div>
+                                    <div class="pi-text">
+                                        <div class="catagory-name">@item.Items.Categories.Category_Type</div>
+                                        <a href="#">
+                                            <h5>@item.Items.Item_Name</h5>
+                                        </a>
+                                        <div class="product-price">
+                                            @if (item.Items.Sales.Sale_Name == "On Sale")
+                                            {
+                                                var discount = (from d in item.Items.Discounts
+                                                                where d.Item_Id == item.Item_Id
+                                                                select d.Discount_Price).SingleOrDefault();
+                                                ViewBag.Discount = "R" + discount;
+
+                                                @ViewBag.Discount
+                                                <span>@Html.DisplayFor(modelItem => item.Items.ItemCost)</span>
+                                            }
+                                            else
+                                            {
+                                                @Html.DisplayFor(modelItem => item.Items.ItemCost)
+                                            }
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        }
+                    </div>
+                    <br />
+               
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

@@ -1,0 +1,35 @@
+﻿@model IEnumerable<OnlineWebApp.Models.Order>
+
+@{
+    ViewBag.Title = "OrderDe";
+}
+
+<h2>Assign Orders</h2>
+<br />
+<div class="row">
+
+    @foreach (var item in Model)
+    {
+
+        <div class="col-md-3">
+            <div class="shadow p-3 mb-5 bg-white rounded">
+
+                <p>Order Number: @Html.DisplayFor(modelItem => item.Order_Id)</p>
+                <p>Client Name: @Html.DisplayFor(modelItem => item.Client.Display_Name)</p>
+                <p>Delivery Address: @Html.DisplayFor(modelItem => item.Option)</p>
+                <p>Order date: @Html.DisplayFor(modelItem => item.OrderDate)</p>
+                @*<a href='@Url.Action("Index", " Home", new { id =item.OrderDetail_Id})' class="btn btn-success">Assign Order</a>*@
+
+                <div class="btn">
+                    <div>
+                        <a href="@Url.Action("Create", "Wants", new { id=item.Order_Id})">
+                            <input type="submit" value="Assign Order" class="btn btn-success" />
+                        </a>
+                    </div>
+                </div>
+
+
+            </div>
+        </div>
+    }
+</div>
